@@ -1,0 +1,60 @@
+header{
+  font font-family: Helvetica
+  font size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+
+
+
+}
+
+
+body {
+  background-image:
+  url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+  border-bottom: 1px solid seashell;
+  border-top: 1px solid seashell;
+  height: 700px;
+  width: 1200px;
+  margin-top: 69px;
+  background-color: black;
+
+}
+
+h2{
+  text-align: center;
+  text-align: vertical;
+  background-color: black;
+  color: seashell;
+
+}
+
+h3{
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 1;
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+  text-align: vertical;
+  background-color: black;
+  color: seashell;
+
+}
+
+h5{
+  border: 200px;
+  margin: 20px;
+  text-align: center;
+  text-align: vertical;
+}
+
+p{
+
+}
